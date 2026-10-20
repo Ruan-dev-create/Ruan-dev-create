@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:1D4ED8,100:06B6D4&height=200&section=header&text=RUAN.DEV&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Java%20Backend%20Developer%20in%20Progress&descAlignY=60&descSize=18" />

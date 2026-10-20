@@ -38,15 +38,39 @@ public class Ruan {
 
 ---
 
-## ⚙️ Tecnologias e ferramentas
+<h2 align="center">💻 Tecnologias e Ferramentas</h2>
 
-<div align="center">
+<h3 align="center">☕ Linguagens</h3>
 
-<img src="https://skillicons.dev/icons?i=java,mysql,postgres,git,github,linux,idea,vscode&theme=dark" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="55" alt="Java" title="Java"/>
+</p>
 
-</div>
+<h3 align="center">🚀 Backend</h3>
 
----
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="55" alt="Spring Boot" title="Spring Boot"/>
+</p>
+
+<h3 align="center">🗄️ Banco de Dados</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="55" alt="MySQL" title="MySQL"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="55" alt="PostgreSQL" title="PostgreSQL"/>
+</p>
+
+<h3 align="center">🛠️ Ferramentas e Ambiente</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" alt="Git" title="Git"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55" alt="GitHub" title="GitHub"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="55" alt="Linux" title="Linux"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="55" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
+</p>
 
 ## 📊 GitHub Analytics
 
